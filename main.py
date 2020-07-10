@@ -6,6 +6,5 @@ class Hello:
     print("Hello", self.name)
     
 p1 = Hello("Pramodh")
-p2 = Hello("Kumar")
+
 p1.say_hi()
-p2.say_hi()
